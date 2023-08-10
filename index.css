@@ -1,0 +1,17 @@
+.container-fluid{
+    height: 70px;
+    background-color: rgb(59, 59, 201);
+}
+.p1{
+    color: aliceblue;
+    margin-left: 10px;
+    font-weight: bold;
+    padding-top: 17px;
+}
+.container{
+    margin-top: 50px;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+
+}
