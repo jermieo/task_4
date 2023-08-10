@@ -29,8 +29,8 @@ const fetch_1 = async () => {
              background-color: aqua;
              border-radius: 4px;
              box-shadow: 2px 2px 2px 2px lightblue;
-             text-align: center;
-             padding: 10px;
+             text-align: justify;
+             padding: 18px;
              margin-left: 100px;
              margin-bottom: 20px;
              `
